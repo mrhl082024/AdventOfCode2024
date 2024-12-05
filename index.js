@@ -29,7 +29,3 @@ for (let i = 0; i < arr1.length; i++) {
 console.log(totalDistance);
 
 //part 2
-let similarity = 0;
-for (let i = 0; i < arr1.length; i++) {
-  counter = 0;
-}
